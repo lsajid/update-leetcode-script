@@ -1,0 +1,18 @@
+{
+  "name": "script-update-points",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "update": "run-func db.js init",
+    "script": "node src/main.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "description": "",
+  "dependencies": {
+    "csv-parser": "^3.0.0",
+    "node": "^22.1.0",
+    "papaparse": "^5.4.1"
+  }
+}

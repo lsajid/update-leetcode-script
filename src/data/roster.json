@@ -1,0 +1,443 @@
+[
+    {
+        "name": "Ahmed Heggy",
+        "email": "ahmedheggy@pursuit.org",
+        "id": 890,
+        "cohort": "9.6",
+        "leetcode_id": "aheggy"
+    },
+    {
+        "name": "Allahvel Salisbury",
+        "email": "allahvelsalisbury@pursuit.org",
+        "id": 869,
+        "cohort": "9.6",
+        "leetcode_id": "allahvelsalisbury"
+    },
+    {
+        "name": "Antonio Shivers",
+        "email": "antonioshivers@pursuit.org",
+        "id": 314,
+        "cohort": "8.3",
+        "leetcode_id": "leetlep1"
+    },
+    {
+        "name": "Ariunaa Myagmar",
+        "email": "ariunaamyagmar@pursuit.org",
+        "id": 799,
+        "cohort": "9.3",
+        "leetcode_id": "ariunaamy"
+    },
+    {
+        "name": "Benny Zheng",
+        "email": "bennyzheng@pursuit.org",
+        "id": 146,
+        "cohort": "8.1",
+        "leetcode_id": "bennyz3"
+    },
+    {
+        "name": "Bo Latt",
+        "email": "bolatt@pursuit.org",
+        "id": 583,
+        "cohort": "9.2",
+        "leetcode_id": "bolatt"
+    },
+    {
+        "name": "Congsong Yang",
+        "email": "congsongyang@pursuit.org",
+        "id": 237,
+        "cohort": "6.4",
+        "leetcode_id": "kongnyc"
+    },
+    {
+        "name": "Cristian Valle",
+        "email": "cristianvalle@pursuit.org",
+        "id": 888,
+        "cohort": "9.6",
+        "leetcode_id": "crsvalle"
+    },
+    {
+        "name": "David Paquette",
+        "email": "davidpaquette@pursuit.org",
+        "id": 1059,
+        "cohort": "9.5",
+        "leetcode_id": "DaveP80"
+    },
+    {
+        "name": "Dennys Antunish",
+        "email": "dennysantunish@pursuit.org",
+        "id": 820,
+        "cohort": "9.6",
+        "leetcode_id": "denant92"
+    },
+    {
+        "name": "Du Min Chen",
+        "email": "duminchen@pursuit.org",
+        "id": 168,
+        "cohort": "7.1",
+        "leetcode_id": "dm1121"
+    },
+    {
+        "name": "Durdona Djalilova",
+        "email": "durdonadjalilova@pursuit.org",
+        "id": 202,
+        "cohort": "7.2",
+        "leetcode_id": "durdonadjalilova"
+    },
+    {
+        "name": "Edgy Gilles",
+        "email": "edgygilles@pursuit.org",
+        "id": 549,
+        "cohort": "9.1",
+        "leetcode_id": "YsoEdgy"
+    },
+    {
+        "name": "Evan Velush",
+        "email": "evanvelush@pursuit.org",
+        "id": 845,
+        "cohort": "9.4",
+        "leetcode_id": "SuperNinjaEv"
+    },
+    {
+        "name": "Wil Santos",
+        "email": "faustosantos@pursuit.org",
+        "id": 864,
+        "cohort": "9.4",
+        "leetcode_id": "Prodigos"
+    },
+    {
+        "name": "Fernando Cortez",
+        "email": "fernandocortez@pursuit.org",
+        "id": 804,
+        "cohort": "9.3",
+        "leetcode_id": "CortezFernando"
+    },
+    {
+        "name": "Hector Ilarraza",
+        "email": "hectorilarraza@pursuit.org",
+        "id": 76,
+        "cohort": "8.2",
+        "leetcode_id": "Diovoid28"
+    },
+    {
+        "name": "Irwin Jorge",
+        "email": "irwinjorge@pursuit.org",
+        "id": 1135,
+        "cohort": "9.6",
+        "leetcode_id": "irwinjorge"
+    },
+    {
+        "name": "Ivan Castillo",
+        "email": "ivancastillo@pursuit.org",
+        "id": 229,
+        "cohort": "7.1",
+        "leetcode_id": "IvanCastillo1986"
+    },
+    {
+        "name": "James Lee",
+        "email": "jameslee@pursuit.org",
+        "id": 759,
+        "cohort": "9.4",
+        "leetcode_id": "aardvarkpepper"
+    },
+    {
+        "name": "Jeremy Jimenez",
+        "email": "jeremyjimenez@pursuit.org",
+        "id": 1101,
+        "cohort": "9.5",
+        "leetcode_id": "jeremytjimenez"
+    },
+    {
+        "name": "Joanavel Pascual",
+        "email": "joanavelpascual@pursuit.org",
+        "id": 1123,
+        "cohort": "9.6",
+        "leetcode_id": "joanavelpascual"
+    },
+    {
+        "name": "Jonathan Narine",
+        "email": "jonathannarine@pursuit.org",
+        "id": 178,
+        "cohort": "7.1",
+        "leetcode_id": null
+    },
+    {
+        "name": "Karma Ghale",
+        "email": "karmaghale@pursuit.org",
+        "id": 1108,
+        "cohort": "9.5",
+        "leetcode_id": "Karma_G7"
+    },
+    {
+        "name": "Kat Pelle",
+        "email": "katpelle@pursuit.org",
+        "id": 622,
+        "cohort": "9.2",
+        "leetcode_id": "KatsProgrammer"
+    },
+    {
+        "name": "Keeanu Rodriguez",
+        "email": "keeanurodriguez@pursuit.org",
+        "id": 797,
+        "cohort": "9.3",
+        "leetcode_id": "Kayrod23"
+    },
+    {
+        "name": "Kenyetta Griffin",
+        "email": "kenyettagriffin@pursuit.org",
+        "id": 307,
+        "cohort": "8.4",
+        "leetcode_id": "KenyettaDev"
+    },
+    {
+        "name": "Laiba Sajid",
+        "email": "laibasajid@pursuit.org",
+        "id": 94,
+        "cohort": "8.2",
+        "leetcode_id": "laibasajid1"
+    },
+    {
+        "name": "Mark Robertson",
+        "email": "markrobertson@pursuit.org",
+        "id": 1032,
+        "cohort": "9.4",
+        "leetcode_id": "Goldsuccess167"
+    },
+    {
+        "name": "Meera Ramesh",
+        "email": "meeraramesh@pursuit.org",
+        "id": 327,
+        "cohort": "8.3",
+        "leetcode_id": "meeraramesh78"
+    },
+    {
+        "name": "Mukayila Alao",
+        "email": "mukayilaalao@pursuit.org",
+        "id": 98,
+        "cohort": "8.2",
+        "leetcode_id": "mukayilaalao"
+    },
+    {
+        "name": "Mussie Russom",
+        "email": "mussierussom@pursuit.org",
+        "id": 1104,
+        "cohort": "9.5",
+        "leetcode_id": "MussieRussom"
+    },
+    {
+        "name": "Hector Zhong",
+        "email": "qihectorzhong@pursuit.org",
+        "id": 584,
+        "cohort": "9.2",
+        "leetcode_id": "hector918"
+    },
+    {
+        "name": "Rae Charles",
+        "email": "raecharles@pursuit.org",
+        "id": 97,
+        "cohort": "8.2",
+        "leetcode_id": "Rcharles87"
+    },
+    {
+        "name": "Rizwan Kawsar",
+        "email": "ridwanrobin@pursuit.org",
+        "id": 1127,
+        "cohort": "9.6",
+        "leetcode_id": " RK404"
+    },
+    {
+        "name": "Riley Lovell",
+        "email": "rileylovell@pursuit.org",
+        "id": 124,
+        "cohort": "8.1",
+        "leetcode_id": "RLovell"
+    },
+    {
+        "name": "Sabri Mohiuddin",
+        "email": "sabrimohiuddin@pursuit.org",
+        "id": 881,
+        "cohort": "9.6",
+        "leetcode_id": "sabrimohiuddin"
+    },
+    {
+        "name": "Sarai Thomas",
+        "email": "saraithomas@pursuit.org",
+        "id": 868,
+        "cohort": "9.6",
+        "leetcode_id": "Sarai-ii"
+    },
+    {
+        "name": "Shaniqua Coston",
+        "email": "shaniquacoston@pursuit.org",
+        "id": 601,
+        "cohort": "9.3",
+        "leetcode_id": "ShaniquaCoston"
+    },
+    {
+        "name": "Sharukh Velupillai",
+        "email": "sharukhvelupillai@pursuit.org",
+        "id": 590,
+        "cohort": "9.2",
+        "leetcode_id": "sharukhvelupillai"
+    },
+    {
+        "name": "Shoaib Dar",
+        "email": "shoaibdar@pursuit.org",
+        "id": 201,
+        "cohort": "7.2",
+        "leetcode_id": null
+    },
+    {
+        "name": "Silis Kleemoff",
+        "email": "siliskleemoff@pursuit.org",
+        "id": 813,
+        "cohort": "9.6",
+        "leetcode_id": "fishsaladxoxo"
+    },
+    {
+        "name": "Stephanie Ramirez",
+        "email": "stephanieramirez@pursuit.org",
+        "id": 902,
+        "cohort": "7.1",
+        "leetcode_id": "stephier90"
+    },
+    {
+        "name": "Tafari Excell",
+        "email": "tafariexcell@pursuit.org",
+        "id": 798,
+        "cohort": "9.3",
+        "leetcode_id": "TafariCodes"
+    },
+    {
+        "name": "Talia Pichardo",
+        "email": "taliapichardo@pursuit.org",
+        "id": 161,
+        "cohort": "7.1",
+        "leetcode_id": "Tpichardo"
+    },
+    {
+        "name": "Teyanna Earle",
+        "email": "teyannaearle@pursuit.org",
+        "id": 175,
+        "cohort": "7.1",
+        "leetcode_id": "teyxnna92"
+    },
+    {
+        "name": "Triane Peart",
+        "email": "trianepeart@pursuit.org",
+        "id": 135,
+        "cohort": "9.1",
+        "leetcode_id": "TrianePeart"
+    },
+    {
+        "name": "Tshering Gurung",
+        "email": "tsheringgurung@pursuit.org",
+        "id": 819,
+        "cohort": "9.6",
+        "leetcode_id": "teegrg"
+    },
+    {
+        "name": "Victor Lopez",
+        "email": "victorlopez@pursuit.org",
+        "id": 276,
+        "cohort": "8.4",
+        "leetcode_id": "VictorLopez515"
+    },
+    {
+        "name": "Wisdom Wright",
+        "email": "wisdomwright-martin@pursuit.org",
+        "id": 592,
+        "cohort": "9.2",
+        "leetcode_id": "wwright1991"
+    },
+    {
+        "name": "Yasser Saadi",
+        "email": "yassersaadi@pursuit.org",
+        "id": 765,
+        "cohort": "9.3",
+        "leetcode_id": "boosterboylol"
+    },
+    {
+        "name": "Yesenia Lopez Rodriguez",
+        "email": "yesenialopezrodriguez@pursuit.org",
+        "id": 170,
+        "cohort": "7.1",
+        "leetcode_id": "yesenialopezrodriguez"
+    },
+    {
+        "name": "Younes Tahiri",
+        "email": "younestahiri@pursuit.org",
+        "id": 134,
+        "cohort": "8.1",
+        "leetcode_id": "younes82"
+    },
+    {
+        "name": "Zalman Azimov",
+        "email": "zalmanazimov@pursuit.org",
+        "id": 1095,
+        "cohort": "9.5",
+        "leetcode_id": "zalazimov"
+    },
+    {
+        "name": "Ziqian Pan",
+        "email": "ziqianpan@pursuit.org",
+        "id": 304,
+        "cohort": "8.4",
+        "leetcode_id": "ziqianpan"
+    },
+    {
+        "name": "Jeremy Montes",
+        "email": "jeremymontes@pursuit.org",
+        "id": 960,
+        "cohort": "10.1",
+        "leetcode_id": "Jmontes5"
+    },
+    {
+        "name": "Lennie Nurse",
+        "email": "lennienurse@pursuit.org",
+        "id": 537,
+        "cohort": "9.1",
+        "leetcode_id": "RedGh0st1"
+    },
+    {
+        "name": "Monique Correa",
+        "email": "moniquecorrea@pursuit.org",
+        "id": 810,
+        "cohort": "9.2",
+        "leetcode_id": "pursuit-monique"
+    },
+    {
+        "name": "Nima Sherpa",
+        "email": "nimasherpa@pursuit.org",
+        "id": 96,
+        "cohort": "8.2",
+        "leetcode_id": "Toplouie"
+    },
+    {
+        "name": "Oscar Quintanilla",
+        "email": "oscarquintanilla@pursuit.org",
+        "id": 987,
+        "cohort": "10.1",
+        "leetcode_id": "OscarQ5"
+    },
+    {
+        "name": "Fadila Ali",
+        "email": "fadilaali@pursuit.org",
+        "id": 539,
+        "cohort": "9.1",
+        "leetcode_id": "Fadila00"
+    },
+    {
+        "name": "Carlos Mendoza",
+        "email": "carlosmendoza@pursuit.org",
+        "id": 595,
+        "cohort": "9.2",
+        "leetcode_id": "cmmendoz1"
+    },
+    {
+        "name": "Christian Orlando",
+        "email": "christianorlando@pursuit.org",
+        "id": 811,
+        "cohort": "9.3",
+        "leetcode_id": "christianorlando"
+    }
+]
